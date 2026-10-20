@@ -1,0 +1,11 @@
+{
+	"geode": "5.11.2",
+	"gd": {
+		"win": "2.2081"
+	},
+	"version": "v1.0.0",
+	"id": "rome.flux",
+	"name": "Flux",
+	"developer": "Rome",
+	"description": "Predictive input buffer with a customizable in-game menu."
+}
